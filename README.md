@@ -2,6 +2,11 @@
 
 This is a Flask web app that uses a decision tree classifier to diagnose diseases based on user input symptoms. The app also uses the NLTK library to detect and respond to greetings from the user and make the chatbot more conversational and friendly.
 
+Functionalities of the bot:
+- Predict diseases from user-given symptoms
+- Suggest home remedies and cure
+- Provide with treatment information 
+
 ## Installation
 
 To run this app, you need to have Python 3 and the following libraries installed:
