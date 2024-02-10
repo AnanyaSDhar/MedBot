@@ -1,5 +1,5 @@
 # Health Care Chatbot
-
+![image](https://github.com/AnanyaSDhar/Healthcare-Chatbot/assets/90474789/40d4ada8-4e4a-48a3-99f3-f5d600cd23ed)
 This is a Flask web app that uses a decision tree classifier to diagnose diseases based on user input symptoms. The app also uses the NLTK library to detect and respond to greetings from the user and make the chatbot more conversational and friendly.
 
 Functionalities of the bot:
@@ -40,14 +40,3 @@ This will start a local server on your machine. You can then open your browser a
 To chat with the health care chatbot, click on the "Chat with me" button on the home page. This will take you to the chatbot page where you can type your symptoms or greetings in the input box and press enter. The chatbot will respond with a diagnosis or a greeting based on your input.
 
 You can end the chat by typing "bye", "goodbye" or "see you" in the input box.
-
-## Example
-
-Here is an example of a chat session with the health care chatbot:
-
-![image](https://github.com/AnanyaSDhar/Healthcare-Chatbot/assets/90474789/40d4ada8-4e4a-48a3-99f3-f5d600cd23ed)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
