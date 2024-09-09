@@ -4,8 +4,7 @@ This is a Flask web app that uses a decision tree classifier to diagnose disease
 
 Functionalities of the bot:
 - Predict diseases from user-given symptoms
-- Suggest home remedies and cure
-- Provide with treatment information 
+- Responds properly to greetings
 
 ## Installation
 
